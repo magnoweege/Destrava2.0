@@ -6,4 +6,6 @@ Utilização: Execute o aplicativo e minimize o mesmo no systems tray icon. Caso
 
 Testado no windows 10.
 
+<img src="https://github.com/magnoweege/Destrava2.0/blob/master/Destrava-2.0.jpg">
+
 
